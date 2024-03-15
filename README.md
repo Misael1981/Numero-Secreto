@@ -5,7 +5,8 @@
 <h2> 🚀 Tecnologias</h2>
 <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white">
 <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white">
-<img src="https://img.shields.io/badge/logo-javascript-blue?logo=javascript">
+<img align="center" alt="Misael-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+
 <h2> 📞 Contato</h2>
 <div> 
   <a href="https://instagram.com/misaelvborges" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
