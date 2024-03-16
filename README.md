@@ -15,4 +15,4 @@
   <a href= https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white></a>
 </div>
 <h2>Link do projeto</h2>
-[Clique e confira]( https://misael1981.github.io/Numero-Secreto/)
+[Clique e confira](https://misael1981.github.io/Jogo-do-numero-secreto.2/)
